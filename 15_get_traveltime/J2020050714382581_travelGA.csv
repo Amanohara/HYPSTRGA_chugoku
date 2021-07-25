@@ -1,0 +1,15 @@
+obs_name,wave1_traveltime,score_P,wavename_P,wave2_traveltime,score_S,wavename_S
+N.WKYH,5.46,B,P,9.13,C,S
+N.MHRH,5.68,B,P,9.61,C,S
+N.NKMH,7.89,B,P,13.09,C,S
+N.TJRH,7.41,B,P,12.52,C,S
+N.HRKH,7.66,B,P,12.97,C,S
+N.TOKH,8.96,B,P,15.29,C,S
+N.NAGH,9.46,B,P,15.93,C,S
+N.UUMH,11.08,B,P,19.16,C,S
+N.KNHH,18.64,B,P,99.99,*,S
+N.TKWH,21.22,B,P,99.99,*,S
+N.MKIH,12.56,B,P,21.60,C,S
+N.KTDH,12.56,B,P,21.67,C,S
+N.TJOH,13.11,B,P,22.73,C,S
+N.KAMH,27.49,B,P,99.99,*,S
